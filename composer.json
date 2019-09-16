@@ -1,0 +1,12 @@
+{
+    "name": "seekgeeks/aws-alarm-handler",
+    "description": "AWS SES alarm handler recieve data sent via AWS SNS after configured alarm state, will give data output to process or save\"",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Dheeraj jha",
+            "email": "Dheeraj@thedijje.com"
+        }
+    ],
+    "require": {}
+}
